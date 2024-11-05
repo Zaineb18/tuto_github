@@ -1,9 +1,6 @@
 
 # CompBrain team meeting Git tutorial session 
 
-
-![GitHub Workflow Build Status](https://github.com/zaccharieramzi/git-tuto/workflows/Continuous%20testing/badge.svg)
-
 This repository will help you practice the basics of the GitHub flow and how to work on open source projects.
 
 Here is a link to a presentation to git in general: https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing
