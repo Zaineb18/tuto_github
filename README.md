@@ -27,9 +27,7 @@ These steps assume that you [have installed git locally](https://www.atlassian.c
 
 8. Open a new Pull Request (PR)
 
-9. Iterate with feedback.
-
-10. Once the PR is (squashed and) merged, don't forget to update your local repo (`git checkout master && git pull upstream master`) and your distant repo (`git push origin master`).
+9. Once the PR is (squashed and) merged, don't forget to update your local repo (`git checkout main && git pull upstream main`) and your distant repo (`git push origin main`).
 
 ## Continuous Integration tutorial
 
