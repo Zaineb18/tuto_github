@@ -3,7 +3,7 @@
 
 This repository will help you practice the basics of the GitHub flow and how to work on open source projects.
 
-Here is a link to a presentation to git in general: https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing
+Here is a link to a presentation to git in general: https://docs.google.com/presentation/d/1nvJhWKEHEk4Vpdrxxovo9OKac8_ra8b7SPm9O-fOqyc/edit#slide=id.g2d553e40d02_0_55
 
 ## Steps
 These steps assume that you [have installed git locally](https://www.atlassian.com/fr/git/tutorials/install-git), that you [have created a GitHub account](https://github.com/join), and [have added your local ssh key](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) to it.
